@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=aaayushh7&icon=7&color=12)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 🔭 I’m currently working on Backend using Golang<br><br>👨‍💻 All of my projects are available at ayushtiwari.co<br><br>📫 How to reach me aayushtiwari071@gmail.com
 
