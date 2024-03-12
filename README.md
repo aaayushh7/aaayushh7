@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Backend using Golang<br><br>👨‍💻 All of my projects are available at ayushtiwari.co<br><br>📫 How to reach me aayushtiwari071@gmail.com
+🔭 I’m currently working on Blockchainbr><br>👨‍💻 All of my projects are available at ayushtiwari.co<br><br>📫 How to reach me aayushtiwari071@gmail.com
 
 
 ## 🌐 Socials:
